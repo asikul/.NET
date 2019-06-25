@@ -1,1 +1,3 @@
-# .NET-dot-net-
+# Asp .NET (MVC)
+
+viewbag,viewdata,viewmodel
