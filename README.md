@@ -10,6 +10,19 @@ runway ;) C# is a language, .NET is an application framework. The .NET libraries
 run on the CLR can also use the .NET libraries.
 
 
+# My Trainer of DOT NET
+
+https://www.youtube.com/user/kudvenkat
+
+
+
+# Project
+
+1. Employee Management CRUD project with MVC ,entity framework
+
+
+
+
 # Asp .NET (MVC)
 
 Controller
